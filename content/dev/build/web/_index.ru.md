@@ -1,5 +1,5 @@
 ---
-title: Веб
+title: Web
 weight: 23
 ---
 

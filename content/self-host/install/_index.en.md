@@ -9,7 +9,7 @@ Script is hosted on https://github.com/dinger1986/rustdeskinstall and supported 
 Currently the script will download and setup the Relay and Signal Servers (hbbr and hbbs), generate configs and host them on a password protected web page for simple deployment to clients.
 
 ### Requirements
-You need to have linux installed, script is tested working with CentOS Linux 7/8, Ubuntu 18/20 and Debian. A server with 1 CPU, 1 GB and 10 GB disk is plenty to run RustDesk.
+You need to have linux installed, script is tested working with CentOS Linux 7/8, Ubuntu 18/20 and Debian. A server with 1 CPU, 1 GB of RAM and 10 GB of free space on the disc is sufficient to execute Rustdesk.
 
 #### How to Install the server
 Please setup your firewall on your server prior to running the script.
